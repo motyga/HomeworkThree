@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeworkThree</string>
+    <string name="calculate_string">calculate</string>
+    <string name="input_radius_string">Input Radius</string>
+    <string name="perimetr_string">perimetr</string>
+    <string name="area_string">area</string>
+    <string name="input_a_string">Input a</string>
+    <string name="input_b_string">Input b</string>
+    <string name="input_c_string">Input c</string>
+    <string name="height_string">height</string>
+    <string name="width_string">width</string>
+</resources>
